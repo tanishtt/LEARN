@@ -8,6 +8,8 @@ In the Git sidebar of Visual Studio Code (VSCode), the letters **U**, **A**, and
 
 These statuses help you understand the state of your files and manage them accordingly within the version control system. Here's a quick summary of their meanings:
 
+
+
 - **U**: Untracked (new file not added to version control)
 - **A**: Added (file staged for commit)
 - **M**: Modified (file has changes that are not yet staged or committed)
