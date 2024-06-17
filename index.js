@@ -8,5 +8,6 @@ function f1(){
     return "f1";
 }
 function f2(){
+    console.log("f2-1");
     return "f2";
 }
